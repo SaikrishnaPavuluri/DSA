@@ -61,6 +61,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0605-can-place-flowers](https://github.com/SaikrishnaPavuluri/DSA/tree/master/0605-can-place-flowers) |
 | [0747-min-cost-climbing-stairs](https://github.com/SaikrishnaPavuluri/DSA/tree/master/0747-min-cost-climbing-stairs) |
 | [0917-boats-to-save-people](https://github.com/SaikrishnaPavuluri/DSA/tree/master/0917-boats-to-save-people) |
+| [0948-sort-an-array](https://github.com/SaikrishnaPavuluri/DSA/tree/master/0948-sort-an-array) |
 | [1231-replace-elements-with-greatest-element-on-right-side](https://github.com/SaikrishnaPavuluri/DSA/tree/master/1231-replace-elements-with-greatest-element-on-right-side) |
 | [1445-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold](https://github.com/SaikrishnaPavuluri/DSA/tree/master/1445-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold) |
 ## Union Find
@@ -155,6 +156,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/SaikrishnaPavuluri/DSA/tree/master/0169-majority-element) |
 | [0268-missing-number](https://github.com/SaikrishnaPavuluri/DSA/tree/master/0268-missing-number) |
 | [0917-boats-to-save-people](https://github.com/SaikrishnaPavuluri/DSA/tree/master/0917-boats-to-save-people) |
+| [0948-sort-an-array](https://github.com/SaikrishnaPavuluri/DSA/tree/master/0948-sort-an-array) |
 ## Design
 |  |
 | ------- |
@@ -165,6 +167,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0053-maximum-subarray](https://github.com/SaikrishnaPavuluri/DSA/tree/master/0053-maximum-subarray) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/SaikrishnaPavuluri/DSA/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0169-majority-element](https://github.com/SaikrishnaPavuluri/DSA/tree/master/0169-majority-element) |
+| [0948-sort-an-array](https://github.com/SaikrishnaPavuluri/DSA/tree/master/0948-sort-an-array) |
 ## Binary Search Tree
 |  |
 | ------- |
@@ -203,4 +206,24 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0278-first-bad-version](https://github.com/SaikrishnaPavuluri/DSA/tree/master/0278-first-bad-version) |
+## Heap (Priority Queue)
+|  |
+| ------- |
+| [0948-sort-an-array](https://github.com/SaikrishnaPavuluri/DSA/tree/master/0948-sort-an-array) |
+## Merge Sort
+|  |
+| ------- |
+| [0948-sort-an-array](https://github.com/SaikrishnaPavuluri/DSA/tree/master/0948-sort-an-array) |
+## Bucket Sort
+|  |
+| ------- |
+| [0948-sort-an-array](https://github.com/SaikrishnaPavuluri/DSA/tree/master/0948-sort-an-array) |
+## Radix Sort
+|  |
+| ------- |
+| [0948-sort-an-array](https://github.com/SaikrishnaPavuluri/DSA/tree/master/0948-sort-an-array) |
+## Counting Sort
+|  |
+| ------- |
+| [0948-sort-an-array](https://github.com/SaikrishnaPavuluri/DSA/tree/master/0948-sort-an-array) |
 <!---LeetCode Topics End-->
