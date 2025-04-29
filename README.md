@@ -59,6 +59,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0560-subarray-sum-equals-k](https://github.com/SaikrishnaPavuluri/DSA/tree/master/0560-subarray-sum-equals-k) |
 | [0605-can-place-flowers](https://github.com/SaikrishnaPavuluri/DSA/tree/master/0605-can-place-flowers) |
 | [0747-min-cost-climbing-stairs](https://github.com/SaikrishnaPavuluri/DSA/tree/master/0747-min-cost-climbing-stairs) |
+| [0917-boats-to-save-people](https://github.com/SaikrishnaPavuluri/DSA/tree/master/0917-boats-to-save-people) |
 | [1231-replace-elements-with-greatest-element-on-right-side](https://github.com/SaikrishnaPavuluri/DSA/tree/master/1231-replace-elements-with-greatest-element-on-right-side) |
 | [1445-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold](https://github.com/SaikrishnaPavuluri/DSA/tree/master/1445-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold) |
 ## Union Find
@@ -132,6 +133,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0234-palindrome-linked-list](https://github.com/SaikrishnaPavuluri/DSA/tree/master/0234-palindrome-linked-list) |
 | [0283-move-zeroes](https://github.com/SaikrishnaPavuluri/DSA/tree/master/0283-move-zeroes) |
 | [0908-middle-of-the-linked-list](https://github.com/SaikrishnaPavuluri/DSA/tree/master/0908-middle-of-the-linked-list) |
+| [0917-boats-to-save-people](https://github.com/SaikrishnaPavuluri/DSA/tree/master/0917-boats-to-save-people) |
 ## Stack
 |  |
 | ------- |
@@ -150,6 +152,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0075-sort-colors](https://github.com/SaikrishnaPavuluri/DSA/tree/master/0075-sort-colors) |
 | [0169-majority-element](https://github.com/SaikrishnaPavuluri/DSA/tree/master/0169-majority-element) |
 | [0268-missing-number](https://github.com/SaikrishnaPavuluri/DSA/tree/master/0268-missing-number) |
+| [0917-boats-to-save-people](https://github.com/SaikrishnaPavuluri/DSA/tree/master/0917-boats-to-save-people) |
 ## Design
 |  |
 | ------- |
@@ -168,6 +171,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0605-can-place-flowers](https://github.com/SaikrishnaPavuluri/DSA/tree/master/0605-can-place-flowers) |
+| [0917-boats-to-save-people](https://github.com/SaikrishnaPavuluri/DSA/tree/master/0917-boats-to-save-people) |
 | [2487-optimal-partition-of-string](https://github.com/SaikrishnaPavuluri/DSA/tree/master/2487-optimal-partition-of-string) |
 ## Monotonic Stack
 |  |
