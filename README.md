@@ -48,6 +48,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/SaikrishnaPavuluri/DSA/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0496-next-greater-element-i](https://github.com/SaikrishnaPavuluri/DSA/tree/master/0496-next-greater-element-i) |
 | [0605-can-place-flowers](https://github.com/SaikrishnaPavuluri/DSA/tree/master/0605-can-place-flowers) |
+| [0747-min-cost-climbing-stairs](https://github.com/SaikrishnaPavuluri/DSA/tree/master/0747-min-cost-climbing-stairs) |
 | [1231-replace-elements-with-greatest-element-on-right-side](https://github.com/SaikrishnaPavuluri/DSA/tree/master/1231-replace-elements-with-greatest-element-on-right-side) |
 | [1445-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold](https://github.com/SaikrishnaPavuluri/DSA/tree/master/1445-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold) |
 ## Union Find
@@ -68,6 +69,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0053-maximum-subarray](https://github.com/SaikrishnaPavuluri/DSA/tree/master/0053-maximum-subarray) |
 | [0118-pascals-triangle](https://github.com/SaikrishnaPavuluri/DSA/tree/master/0118-pascals-triangle) |
+| [0747-min-cost-climbing-stairs](https://github.com/SaikrishnaPavuluri/DSA/tree/master/0747-min-cost-climbing-stairs) |
 ## Binary Search
 |  |
 | ------- |
