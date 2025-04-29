@@ -24,6 +24,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0075-sort-colors](https://github.com/SaikrishnaPavuluri/DSA/tree/master/0075-sort-colors) |
 | [0118-pascals-triangle](https://github.com/SaikrishnaPavuluri/DSA/tree/master/0118-pascals-triangle) |
 | [0128-longest-consecutive-sequence](https://github.com/SaikrishnaPavuluri/DSA/tree/master/0128-longest-consecutive-sequence) |
 | [0209-minimum-size-subarray-sum](https://github.com/SaikrishnaPavuluri/DSA/tree/master/0209-minimum-size-subarray-sum) |
@@ -77,6 +78,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [0075-sort-colors](https://github.com/SaikrishnaPavuluri/DSA/tree/master/0075-sort-colors) |
 | [0234-palindrome-linked-list](https://github.com/SaikrishnaPavuluri/DSA/tree/master/0234-palindrome-linked-list) |
 ## Stack
 |  |
@@ -86,4 +88,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0234-palindrome-linked-list](https://github.com/SaikrishnaPavuluri/DSA/tree/master/0234-palindrome-linked-list) |
+## Sorting
+|  |
+| ------- |
+| [0075-sort-colors](https://github.com/SaikrishnaPavuluri/DSA/tree/master/0075-sort-colors) |
 <!---LeetCode Topics End-->
