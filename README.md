@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/SaikrishnaPavuluri/DSA/tree/master/0001-two-sum) |
 | [0128-longest-consecutive-sequence](https://github.com/SaikrishnaPavuluri/DSA/tree/master/0128-longest-consecutive-sequence) |
 | [0387-first-unique-character-in-a-string](https://github.com/SaikrishnaPavuluri/DSA/tree/master/0387-first-unique-character-in-a-string) |
 | [2487-optimal-partition-of-string](https://github.com/SaikrishnaPavuluri/DSA/tree/master/2487-optimal-partition-of-string) |
@@ -26,6 +27,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/SaikrishnaPavuluri/DSA/tree/master/0001-two-sum) |
 | [0075-sort-colors](https://github.com/SaikrishnaPavuluri/DSA/tree/master/0075-sort-colors) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/SaikrishnaPavuluri/DSA/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0118-pascals-triangle](https://github.com/SaikrishnaPavuluri/DSA/tree/master/0118-pascals-triangle) |
