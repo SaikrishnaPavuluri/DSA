@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0001-two-sum](https://github.com/SaikrishnaPavuluri/DSA/tree/master/0001-two-sum) |
 | [0128-longest-consecutive-sequence](https://github.com/SaikrishnaPavuluri/DSA/tree/master/0128-longest-consecutive-sequence) |
 | [0387-first-unique-character-in-a-string](https://github.com/SaikrishnaPavuluri/DSA/tree/master/0387-first-unique-character-in-a-string) |
+| [0496-next-greater-element-i](https://github.com/SaikrishnaPavuluri/DSA/tree/master/0496-next-greater-element-i) |
 | [2487-optimal-partition-of-string](https://github.com/SaikrishnaPavuluri/DSA/tree/master/2487-optimal-partition-of-string) |
 ## String
 |  |
@@ -34,6 +35,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0128-longest-consecutive-sequence](https://github.com/SaikrishnaPavuluri/DSA/tree/master/0128-longest-consecutive-sequence) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/SaikrishnaPavuluri/DSA/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0209-minimum-size-subarray-sum](https://github.com/SaikrishnaPavuluri/DSA/tree/master/0209-minimum-size-subarray-sum) |
+| [0496-next-greater-element-i](https://github.com/SaikrishnaPavuluri/DSA/tree/master/0496-next-greater-element-i) |
 | [1231-replace-elements-with-greatest-element-on-right-side](https://github.com/SaikrishnaPavuluri/DSA/tree/master/1231-replace-elements-with-greatest-element-on-right-side) |
 | [1445-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold](https://github.com/SaikrishnaPavuluri/DSA/tree/master/1445-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold) |
 ## Union Find
@@ -95,6 +97,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0155-min-stack](https://github.com/SaikrishnaPavuluri/DSA/tree/master/0155-min-stack) |
 | [0234-palindrome-linked-list](https://github.com/SaikrishnaPavuluri/DSA/tree/master/0234-palindrome-linked-list) |
+| [0496-next-greater-element-i](https://github.com/SaikrishnaPavuluri/DSA/tree/master/0496-next-greater-element-i) |
 ## Recursion
 |  |
 | ------- |
@@ -119,4 +122,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2487-optimal-partition-of-string](https://github.com/SaikrishnaPavuluri/DSA/tree/master/2487-optimal-partition-of-string) |
+## Monotonic Stack
+|  |
+| ------- |
+| [0496-next-greater-element-i](https://github.com/SaikrishnaPavuluri/DSA/tree/master/0496-next-greater-element-i) |
 <!---LeetCode Topics End-->
