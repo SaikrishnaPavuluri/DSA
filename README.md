@@ -8,11 +8,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0128-longest-consecutive-sequence](https://github.com/SaikrishnaPavuluri/DSA/tree/master/0128-longest-consecutive-sequence) |
 | [0387-first-unique-character-in-a-string](https://github.com/SaikrishnaPavuluri/DSA/tree/master/0387-first-unique-character-in-a-string) |
+| [2487-optimal-partition-of-string](https://github.com/SaikrishnaPavuluri/DSA/tree/master/2487-optimal-partition-of-string) |
 ## String
 |  |
 | ------- |
 | [0387-first-unique-character-in-a-string](https://github.com/SaikrishnaPavuluri/DSA/tree/master/0387-first-unique-character-in-a-string) |
 | [1516-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n](https://github.com/SaikrishnaPavuluri/DSA/tree/master/1516-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n) |
+| [2487-optimal-partition-of-string](https://github.com/SaikrishnaPavuluri/DSA/tree/master/2487-optimal-partition-of-string) |
 ## Queue
 |  |
 | ------- |
@@ -108,4 +110,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/SaikrishnaPavuluri/DSA/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
+## Greedy
+|  |
+| ------- |
+| [2487-optimal-partition-of-string](https://github.com/SaikrishnaPavuluri/DSA/tree/master/2487-optimal-partition-of-string) |
 <!---LeetCode Topics End-->
