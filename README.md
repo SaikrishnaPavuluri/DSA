@@ -71,6 +71,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0053-maximum-subarray](https://github.com/SaikrishnaPavuluri/DSA/tree/master/0053-maximum-subarray) |
+| [0070-climbing-stairs](https://github.com/SaikrishnaPavuluri/DSA/tree/master/0070-climbing-stairs) |
 | [0118-pascals-triangle](https://github.com/SaikrishnaPavuluri/DSA/tree/master/0118-pascals-triangle) |
 | [0747-min-cost-climbing-stairs](https://github.com/SaikrishnaPavuluri/DSA/tree/master/0747-min-cost-climbing-stairs) |
 ## Binary Search
@@ -155,6 +156,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0067-add-binary](https://github.com/SaikrishnaPavuluri/DSA/tree/master/0067-add-binary) |
+| [0070-climbing-stairs](https://github.com/SaikrishnaPavuluri/DSA/tree/master/0070-climbing-stairs) |
 | [0268-missing-number](https://github.com/SaikrishnaPavuluri/DSA/tree/master/0268-missing-number) |
 ## Bit Manipulation
 |  |
@@ -165,4 +167,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0067-add-binary](https://github.com/SaikrishnaPavuluri/DSA/tree/master/0067-add-binary) |
+## Memoization
+|  |
+| ------- |
+| [0070-climbing-stairs](https://github.com/SaikrishnaPavuluri/DSA/tree/master/0070-climbing-stairs) |
 <!---LeetCode Topics End-->
