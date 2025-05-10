@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0205-isomorphic-strings](https://github.com/SaikrishnaPavuluri/DSA/tree/master/0205-isomorphic-strings) |
 | [0219-contains-duplicate-ii](https://github.com/SaikrishnaPavuluri/DSA/tree/master/0219-contains-duplicate-ii) |
 | [0268-missing-number](https://github.com/SaikrishnaPavuluri/DSA/tree/master/0268-missing-number) |
+| [0347-top-k-frequent-elements](https://github.com/SaikrishnaPavuluri/DSA/tree/master/0347-top-k-frequent-elements) |
 | [0387-first-unique-character-in-a-string](https://github.com/SaikrishnaPavuluri/DSA/tree/master/0387-first-unique-character-in-a-string) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/SaikrishnaPavuluri/DSA/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0496-next-greater-element-i](https://github.com/SaikrishnaPavuluri/DSA/tree/master/0496-next-greater-element-i) |
@@ -35,6 +36,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/SaikrishnaPavuluri/DSA/tree/master/0169-majority-element) |
+| [0347-top-k-frequent-elements](https://github.com/SaikrishnaPavuluri/DSA/tree/master/0347-top-k-frequent-elements) |
 | [0387-first-unique-character-in-a-string](https://github.com/SaikrishnaPavuluri/DSA/tree/master/0387-first-unique-character-in-a-string) |
 ## Array
 |  |
@@ -55,6 +57,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0219-contains-duplicate-ii](https://github.com/SaikrishnaPavuluri/DSA/tree/master/0219-contains-duplicate-ii) |
 | [0268-missing-number](https://github.com/SaikrishnaPavuluri/DSA/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/SaikrishnaPavuluri/DSA/tree/master/0283-move-zeroes) |
+| [0347-top-k-frequent-elements](https://github.com/SaikrishnaPavuluri/DSA/tree/master/0347-top-k-frequent-elements) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/SaikrishnaPavuluri/DSA/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0496-next-greater-element-i](https://github.com/SaikrishnaPavuluri/DSA/tree/master/0496-next-greater-element-i) |
 | [0560-subarray-sum-equals-k](https://github.com/SaikrishnaPavuluri/DSA/tree/master/0560-subarray-sum-equals-k) |
@@ -155,6 +158,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0075-sort-colors](https://github.com/SaikrishnaPavuluri/DSA/tree/master/0075-sort-colors) |
 | [0169-majority-element](https://github.com/SaikrishnaPavuluri/DSA/tree/master/0169-majority-element) |
 | [0268-missing-number](https://github.com/SaikrishnaPavuluri/DSA/tree/master/0268-missing-number) |
+| [0347-top-k-frequent-elements](https://github.com/SaikrishnaPavuluri/DSA/tree/master/0347-top-k-frequent-elements) |
 | [0917-boats-to-save-people](https://github.com/SaikrishnaPavuluri/DSA/tree/master/0917-boats-to-save-people) |
 | [0948-sort-an-array](https://github.com/SaikrishnaPavuluri/DSA/tree/master/0948-sort-an-array) |
 ## Design
@@ -167,6 +171,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0053-maximum-subarray](https://github.com/SaikrishnaPavuluri/DSA/tree/master/0053-maximum-subarray) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/SaikrishnaPavuluri/DSA/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0169-majority-element](https://github.com/SaikrishnaPavuluri/DSA/tree/master/0169-majority-element) |
+| [0347-top-k-frequent-elements](https://github.com/SaikrishnaPavuluri/DSA/tree/master/0347-top-k-frequent-elements) |
 | [0948-sort-an-array](https://github.com/SaikrishnaPavuluri/DSA/tree/master/0948-sort-an-array) |
 ## Binary Search Tree
 |  |
@@ -209,6 +214,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Heap (Priority Queue)
 |  |
 | ------- |
+| [0347-top-k-frequent-elements](https://github.com/SaikrishnaPavuluri/DSA/tree/master/0347-top-k-frequent-elements) |
 | [0948-sort-an-array](https://github.com/SaikrishnaPavuluri/DSA/tree/master/0948-sort-an-array) |
 ## Merge Sort
 |  |
@@ -217,6 +223,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bucket Sort
 |  |
 | ------- |
+| [0347-top-k-frequent-elements](https://github.com/SaikrishnaPavuluri/DSA/tree/master/0347-top-k-frequent-elements) |
 | [0948-sort-an-array](https://github.com/SaikrishnaPavuluri/DSA/tree/master/0948-sort-an-array) |
 ## Radix Sort
 |  |
@@ -226,4 +233,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0948-sort-an-array](https://github.com/SaikrishnaPavuluri/DSA/tree/master/0948-sort-an-array) |
+## Quickselect
+|  |
+| ------- |
+| [0347-top-k-frequent-elements](https://github.com/SaikrishnaPavuluri/DSA/tree/master/0347-top-k-frequent-elements) |
 <!---LeetCode Topics End-->
