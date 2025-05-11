@@ -67,6 +67,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0948-sort-an-array](https://github.com/SaikrishnaPavuluri/DSA/tree/master/0948-sort-an-array) |
 | [1231-replace-elements-with-greatest-element-on-right-side](https://github.com/SaikrishnaPavuluri/DSA/tree/master/1231-replace-elements-with-greatest-element-on-right-side) |
 | [1445-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold](https://github.com/SaikrishnaPavuluri/DSA/tree/master/1445-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold) |
+| [2271-rearrange-array-elements-by-sign](https://github.com/SaikrishnaPavuluri/DSA/tree/master/2271-rearrange-array-elements-by-sign) |
 ## Union Find
 |  |
 | ------- |
@@ -140,6 +141,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0283-move-zeroes](https://github.com/SaikrishnaPavuluri/DSA/tree/master/0283-move-zeroes) |
 | [0908-middle-of-the-linked-list](https://github.com/SaikrishnaPavuluri/DSA/tree/master/0908-middle-of-the-linked-list) |
 | [0917-boats-to-save-people](https://github.com/SaikrishnaPavuluri/DSA/tree/master/0917-boats-to-save-people) |
+| [2271-rearrange-array-elements-by-sign](https://github.com/SaikrishnaPavuluri/DSA/tree/master/2271-rearrange-array-elements-by-sign) |
 ## Stack
 |  |
 | ------- |
@@ -203,6 +205,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0067-add-binary](https://github.com/SaikrishnaPavuluri/DSA/tree/master/0067-add-binary) |
+| [2271-rearrange-array-elements-by-sign](https://github.com/SaikrishnaPavuluri/DSA/tree/master/2271-rearrange-array-elements-by-sign) |
 ## Memoization
 |  |
 | ------- |
