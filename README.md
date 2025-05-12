@@ -43,6 +43,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0001-two-sum](https://github.com/SaikrishnaPavuluri/DSA/tree/master/0001-two-sum) |
 | [0018-4sum](https://github.com/SaikrishnaPavuluri/DSA/tree/master/0018-4sum) |
+| [0031-next-permutation](https://github.com/SaikrishnaPavuluri/DSA/tree/master/0031-next-permutation) |
 | [0035-search-insert-position](https://github.com/SaikrishnaPavuluri/DSA/tree/master/0035-search-insert-position) |
 | [0041-first-missing-positive](https://github.com/SaikrishnaPavuluri/DSA/tree/master/0041-first-missing-positive) |
 | [0053-maximum-subarray](https://github.com/SaikrishnaPavuluri/DSA/tree/master/0053-maximum-subarray) |
@@ -135,6 +136,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0018-4sum](https://github.com/SaikrishnaPavuluri/DSA/tree/master/0018-4sum) |
+| [0031-next-permutation](https://github.com/SaikrishnaPavuluri/DSA/tree/master/0031-next-permutation) |
 | [0075-sort-colors](https://github.com/SaikrishnaPavuluri/DSA/tree/master/0075-sort-colors) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/SaikrishnaPavuluri/DSA/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0234-palindrome-linked-list](https://github.com/SaikrishnaPavuluri/DSA/tree/master/0234-palindrome-linked-list) |
