@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0001-two-sum](https://github.com/SaikrishnaPavuluri/DSA/tree/master/0001-two-sum) |
 | [0041-first-missing-positive](https://github.com/SaikrishnaPavuluri/DSA/tree/master/0041-first-missing-positive) |
+| [0073-set-matrix-zeroes](https://github.com/SaikrishnaPavuluri/DSA/tree/master/0073-set-matrix-zeroes) |
 | [0128-longest-consecutive-sequence](https://github.com/SaikrishnaPavuluri/DSA/tree/master/0128-longest-consecutive-sequence) |
 | [0169-majority-element](https://github.com/SaikrishnaPavuluri/DSA/tree/master/0169-majority-element) |
 | [0205-isomorphic-strings](https://github.com/SaikrishnaPavuluri/DSA/tree/master/0205-isomorphic-strings) |
@@ -48,6 +49,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0035-search-insert-position](https://github.com/SaikrishnaPavuluri/DSA/tree/master/0035-search-insert-position) |
 | [0041-first-missing-positive](https://github.com/SaikrishnaPavuluri/DSA/tree/master/0041-first-missing-positive) |
 | [0053-maximum-subarray](https://github.com/SaikrishnaPavuluri/DSA/tree/master/0053-maximum-subarray) |
+| [0073-set-matrix-zeroes](https://github.com/SaikrishnaPavuluri/DSA/tree/master/0073-set-matrix-zeroes) |
 | [0075-sort-colors](https://github.com/SaikrishnaPavuluri/DSA/tree/master/0075-sort-colors) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/SaikrishnaPavuluri/DSA/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0118-pascals-triangle](https://github.com/SaikrishnaPavuluri/DSA/tree/master/0118-pascals-triangle) |
@@ -254,4 +256,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1549-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit](https://github.com/SaikrishnaPavuluri/DSA/tree/master/1549-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit) |
+## Matrix
+|  |
+| ------- |
+| [0073-set-matrix-zeroes](https://github.com/SaikrishnaPavuluri/DSA/tree/master/0073-set-matrix-zeroes) |
 <!---LeetCode Topics End-->
