@@ -15,7 +15,7 @@ class Solution {
 //     return j - i;
 // }
     public int longestSubarray(int[] nums, int limit) {
-        
+      //[8,2,4,7]  
         LinkedList<Integer> increase = new LinkedList<>();
         LinkedList<Integer> decrease = new LinkedList<>();
 
@@ -23,31 +23,31 @@ class Solution {
         int left = 0;
 
         for (int i = 0; i < nums.length; i++) {
-            int n = nums[i];
+            int n = nums[i];  //8 //2  //4  //7
 
-            while (increase.size() > 0 && n < increase.getLast()) {
-                increase.removeLast();
+            while (increase.size() > 0 && n < increase.getLast()) {//  2 < 8
+                increase.removeLast();  
             }
-            increase.add(n);
+            increase.add(n); //8 //2 //2,4,7
 
-            while (decrease.size() > 0 && n > decrease.getLast()) {
+            while (decrease.size() > 0 && n > decrease.getLast()) {// 2 > 8//4 > 2
                 decrease.removeLast();
             }
 
-            decrease.add(n);
-
-            while (decrease.getFirst() - increase.getFirst() > limit) {
+            decrease.add(n); //8// 8, 2 // 2 //7
+                          //   3 > 7
+            while (decrease.getFirst() - increase.getFirst() > limit) { // false// true //false //false
                 if (nums[left] == decrease.getFirst()) {
-                    decrease.removeFirst();
+                    decrease.removeFirst(); //2
                 }
                 if (nums[left] == increase.getFirst()) {
-                    increase.removeFirst();
+                    increase.removeFirst();  //4,7
                 }
-                left++;
+                left++;// 2
             }
 
-            int size = i - left + 1;
-            max = Math.max(max, size);
+            int size = i - left + 1;  // 0-0+1// 1-1+1 // 2-1+1=2
+            max = Math.max(max, size); // 1 // 1 // 2
         }
 
         return max;
