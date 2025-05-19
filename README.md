@@ -74,6 +74,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0560-subarray-sum-equals-k](https://github.com/SaikrishnaPavuluri/DSA/tree/master/0560-subarray-sum-equals-k) |
 | [0605-can-place-flowers](https://github.com/SaikrishnaPavuluri/DSA/tree/master/0605-can-place-flowers) |
 | [0747-min-cost-climbing-stairs](https://github.com/SaikrishnaPavuluri/DSA/tree/master/0747-min-cost-climbing-stairs) |
+| [0792-binary-search](https://github.com/SaikrishnaPavuluri/DSA/tree/master/0792-binary-search) |
 | [0917-boats-to-save-people](https://github.com/SaikrishnaPavuluri/DSA/tree/master/0917-boats-to-save-people) |
 | [0948-sort-an-array](https://github.com/SaikrishnaPavuluri/DSA/tree/master/0948-sort-an-array) |
 | [1231-replace-elements-with-greatest-element-on-right-side](https://github.com/SaikrishnaPavuluri/DSA/tree/master/1231-replace-elements-with-greatest-element-on-right-side) |
@@ -112,6 +113,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0209-minimum-size-subarray-sum](https://github.com/SaikrishnaPavuluri/DSA/tree/master/0209-minimum-size-subarray-sum) |
 | [0268-missing-number](https://github.com/SaikrishnaPavuluri/DSA/tree/master/0268-missing-number) |
 | [0278-first-bad-version](https://github.com/SaikrishnaPavuluri/DSA/tree/master/0278-first-bad-version) |
+| [0792-binary-search](https://github.com/SaikrishnaPavuluri/DSA/tree/master/0792-binary-search) |
 ## Prefix Sum
 |  |
 | ------- |
