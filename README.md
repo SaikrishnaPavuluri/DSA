@@ -73,6 +73,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0209-minimum-size-subarray-sum](https://github.com/SaikrishnaPavuluri/DSA/tree/master/0209-minimum-size-subarray-sum) |
 | [0219-contains-duplicate-ii](https://github.com/SaikrishnaPavuluri/DSA/tree/master/0219-contains-duplicate-ii) |
 | [0229-majority-element-ii](https://github.com/SaikrishnaPavuluri/DSA/tree/master/0229-majority-element-ii) |
+| [0240-search-a-2d-matrix-ii](https://github.com/SaikrishnaPavuluri/DSA/tree/master/0240-search-a-2d-matrix-ii) |
 | [0268-missing-number](https://github.com/SaikrishnaPavuluri/DSA/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/SaikrishnaPavuluri/DSA/tree/master/0283-move-zeroes) |
 | [0347-top-k-frequent-elements](https://github.com/SaikrishnaPavuluri/DSA/tree/master/0347-top-k-frequent-elements) |
@@ -128,6 +129,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0162-find-peak-element](https://github.com/SaikrishnaPavuluri/DSA/tree/master/0162-find-peak-element) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/SaikrishnaPavuluri/DSA/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0209-minimum-size-subarray-sum](https://github.com/SaikrishnaPavuluri/DSA/tree/master/0209-minimum-size-subarray-sum) |
+| [0240-search-a-2d-matrix-ii](https://github.com/SaikrishnaPavuluri/DSA/tree/master/0240-search-a-2d-matrix-ii) |
 | [0268-missing-number](https://github.com/SaikrishnaPavuluri/DSA/tree/master/0268-missing-number) |
 | [0278-first-bad-version](https://github.com/SaikrishnaPavuluri/DSA/tree/master/0278-first-bad-version) |
 | [0540-single-element-in-a-sorted-array](https://github.com/SaikrishnaPavuluri/DSA/tree/master/0540-single-element-in-a-sorted-array) |
@@ -215,6 +217,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0053-maximum-subarray](https://github.com/SaikrishnaPavuluri/DSA/tree/master/0053-maximum-subarray) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/SaikrishnaPavuluri/DSA/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0169-majority-element](https://github.com/SaikrishnaPavuluri/DSA/tree/master/0169-majority-element) |
+| [0240-search-a-2d-matrix-ii](https://github.com/SaikrishnaPavuluri/DSA/tree/master/0240-search-a-2d-matrix-ii) |
 | [0347-top-k-frequent-elements](https://github.com/SaikrishnaPavuluri/DSA/tree/master/0347-top-k-frequent-elements) |
 | [0948-sort-an-array](https://github.com/SaikrishnaPavuluri/DSA/tree/master/0948-sort-an-array) |
 ## Binary Search Tree
@@ -298,4 +301,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0048-rotate-image](https://github.com/SaikrishnaPavuluri/DSA/tree/master/0048-rotate-image) |
 | [0073-set-matrix-zeroes](https://github.com/SaikrishnaPavuluri/DSA/tree/master/0073-set-matrix-zeroes) |
 | [0074-search-a-2d-matrix](https://github.com/SaikrishnaPavuluri/DSA/tree/master/0074-search-a-2d-matrix) |
+| [0240-search-a-2d-matrix-ii](https://github.com/SaikrishnaPavuluri/DSA/tree/master/0240-search-a-2d-matrix-ii) |
 <!---LeetCode Topics End-->
