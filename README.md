@@ -28,6 +28,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0067-add-binary](https://github.com/SaikrishnaPavuluri/DSA/tree/master/0067-add-binary) |
 | [0205-isomorphic-strings](https://github.com/SaikrishnaPavuluri/DSA/tree/master/0205-isomorphic-strings) |
 | [0387-first-unique-character-in-a-string](https://github.com/SaikrishnaPavuluri/DSA/tree/master/0387-first-unique-character-in-a-string) |
+| [1078-remove-outermost-parentheses](https://github.com/SaikrishnaPavuluri/DSA/tree/master/1078-remove-outermost-parentheses) |
 | [1516-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n](https://github.com/SaikrishnaPavuluri/DSA/tree/master/1516-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n) |
 | [2487-optimal-partition-of-string](https://github.com/SaikrishnaPavuluri/DSA/tree/master/2487-optimal-partition-of-string) |
 ## Queue
@@ -191,6 +192,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0155-min-stack](https://github.com/SaikrishnaPavuluri/DSA/tree/master/0155-min-stack) |
 | [0234-palindrome-linked-list](https://github.com/SaikrishnaPavuluri/DSA/tree/master/0234-palindrome-linked-list) |
 | [0496-next-greater-element-i](https://github.com/SaikrishnaPavuluri/DSA/tree/master/0496-next-greater-element-i) |
+| [1078-remove-outermost-parentheses](https://github.com/SaikrishnaPavuluri/DSA/tree/master/1078-remove-outermost-parentheses) |
 ## Recursion
 |  |
 | ------- |
