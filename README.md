@@ -26,6 +26,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0020-valid-parentheses](https://github.com/SaikrishnaPavuluri/DSA/tree/master/0020-valid-parentheses) |
 | [0067-add-binary](https://github.com/SaikrishnaPavuluri/DSA/tree/master/0067-add-binary) |
+| [0151-reverse-words-in-a-string](https://github.com/SaikrishnaPavuluri/DSA/tree/master/0151-reverse-words-in-a-string) |
 | [0205-isomorphic-strings](https://github.com/SaikrishnaPavuluri/DSA/tree/master/0205-isomorphic-strings) |
 | [0387-first-unique-character-in-a-string](https://github.com/SaikrishnaPavuluri/DSA/tree/master/0387-first-unique-character-in-a-string) |
 | [1078-remove-outermost-parentheses](https://github.com/SaikrishnaPavuluri/DSA/tree/master/1078-remove-outermost-parentheses) |
@@ -179,6 +180,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0018-4sum](https://github.com/SaikrishnaPavuluri/DSA/tree/master/0018-4sum) |
 | [0031-next-permutation](https://github.com/SaikrishnaPavuluri/DSA/tree/master/0031-next-permutation) |
 | [0075-sort-colors](https://github.com/SaikrishnaPavuluri/DSA/tree/master/0075-sort-colors) |
+| [0151-reverse-words-in-a-string](https://github.com/SaikrishnaPavuluri/DSA/tree/master/0151-reverse-words-in-a-string) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/SaikrishnaPavuluri/DSA/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0234-palindrome-linked-list](https://github.com/SaikrishnaPavuluri/DSA/tree/master/0234-palindrome-linked-list) |
 | [0283-move-zeroes](https://github.com/SaikrishnaPavuluri/DSA/tree/master/0283-move-zeroes) |
